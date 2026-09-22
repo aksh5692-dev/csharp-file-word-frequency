@@ -1,0 +1,24 @@
+# Build output
+bin/
+obj/
+
+# .NET
+*.user
+*.suo
+project.lock.json
+project.nuget.cache
+*.nuget.props
+*.nuget.targets
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# OS files
+.DS_Store
+Thumbs.db
